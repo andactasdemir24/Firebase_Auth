@@ -1,6 +1,6 @@
-# firebase_Auth
+# Firebase_Auth
 
-I have created an application where you can perform user registration, login and guest login operations with Flutter Firebase Authentication.
+I have created an application where the logged-in user can register, log in, guest log in, and the logged-in user can log out with Flutter Firebase Authentication.
 
 
 

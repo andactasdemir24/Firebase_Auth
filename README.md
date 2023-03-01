@@ -1,16 +1,9 @@
-# firebase_entegrasyon
+# firebase_Auth
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/96003255/222184372-9339caa4-a982-4a37-94a5-ee2f37e55eb0.PNG)
+![2](https://user-images.githubusercontent.com/96003255/222184379-b194cc0a-5812-41a7-ac5d-1545fd9eca49.PNG)
+![3](https://user-images.githubusercontent.com/96003255/222184388-4bb29a24-67f2-4b15-8a3f-a08c0cfd4d92.PNG)

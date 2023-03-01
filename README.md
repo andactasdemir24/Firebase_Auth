@@ -1,6 +1,6 @@
 # firebase_Auth
 
-A new Flutter project.
+I have created an application where you can perform user registration, login and guest login operations with Flutter Firebase Authentication.
 
 
 
